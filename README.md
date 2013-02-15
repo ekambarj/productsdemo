@@ -1,1 +1,1 @@
-This project will define demo Rest APIs to simulate a separate platform hosting APIs
+This project uses similar resources compareed to the Customer Resource defined in the swaggerdeploydemo project and changes them to Tariffs to deploy it on a separate platform to demo the integration of swagger with multiple platforms
